@@ -32,6 +32,7 @@ sui client publish --gas-budget 100000000
 - Add: **AdminCap** property to edit members or to modify distribution ratio.
 
 ## Receipt
+```bash
 Transaction Digest: 4dp4jtZc5F92iZomdDG5XjAUy5LtUsxFr6jKFvaAgtPJ
 ╭──────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
 │ Transaction Data                                                                                             │
@@ -161,3 +162,4 @@ Transaction Digest: 4dp4jtZc5F92iZomdDG5XjAUy5LtUsxFr6jKFvaAgtPJ
 │  │ Amount: -13884280                                                                              │
 │  └──                                                                                              │
 ╰───────────────────────────────────────────────────────────────────────────────────────────────────╯
+```
